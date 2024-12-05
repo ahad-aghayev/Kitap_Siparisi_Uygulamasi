@@ -1,0 +1,10 @@
+C:\Users\Keskin\Desktop\KitapKiralama\KitapKiralama\bin\Debug\KitapKiralama.exe.config
+C:\Users\Keskin\Desktop\KitapKiralama\KitapKiralama\bin\Debug\KitapKiralama.exe
+C:\Users\Keskin\Desktop\KitapKiralama\KitapKiralama\bin\Debug\KitapKiralama.pdb
+C:\Users\Keskin\Desktop\KitapKiralama\KitapKiralama\obj\Debug\KitapKiralama.csproj.AssemblyReference.cache
+C:\Users\Keskin\Desktop\KitapKiralama\KitapKiralama\obj\Debug\KitapKiralama.Form1.resources
+C:\Users\Keskin\Desktop\KitapKiralama\KitapKiralama\obj\Debug\KitapKiralama.Properties.Resources.resources
+C:\Users\Keskin\Desktop\KitapKiralama\KitapKiralama\obj\Debug\KitapKiralama.csproj.GenerateResource.cache
+C:\Users\Keskin\Desktop\KitapKiralama\KitapKiralama\obj\Debug\KitapKiralama.csproj.CoreCompileInputs.cache
+C:\Users\Keskin\Desktop\KitapKiralama\KitapKiralama\obj\Debug\KitapKiralama.exe
+C:\Users\Keskin\Desktop\KitapKiralama\KitapKiralama\obj\Debug\KitapKiralama.pdb
